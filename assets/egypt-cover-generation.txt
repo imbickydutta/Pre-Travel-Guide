@@ -1,0 +1,3 @@
+Mode: built-in image_gen
+Asset: assets/egypt-cover.png
+Prompt: Use case: photorealistic-natural. Asset type: full-bleed A4 portrait Egypt travel guide cover artwork. Create an elegant editorial photographic-style view of the Giza pyramids from the desert at golden hour, atmospheric dusty blue sky in upper third, beautifully textured warm sandstone pyramids across middle third, softly shadowed desert foreground in lower third providing clean negative space for later typography. Restrained antique gold, sand and muted teal palette. Realistic landscape proportions, premium travel magazine photography, no people needed. No text, logos, borders, watermarks or collage. Portrait composition.
